@@ -1,4 +1,7 @@
 export default {
+  pages: {
+    title: 'Merchandise Application'
+  },
   route: {
     dashboard: 'Dashboard',
     introduction: 'Introduction',

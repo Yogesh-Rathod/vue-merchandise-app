@@ -1,5 +1,11 @@
 <template>
   <div class="dashboard-editor-container">
+    <h1>
+      Hello World,
+      <div>
+        This is {{$t('pages.title')}}
+      </div>
+    </h1>
   </div>
 </template>
 
