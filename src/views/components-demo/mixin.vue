@@ -51,7 +51,7 @@
           </div>
           <div class="component-item">
             <pan-thumb width="100px" height="100px" image="https://wpimg.wallstcn.com/577965b9-bb9e-4e02-9f0c-095b41417191">
-              vue-element-admin
+              
             </pan-thumb>
           </div>
         </el-card>
@@ -74,7 +74,7 @@
             <span>hover text</span>
           </div>
           <div class="component-item">
-            <mallki className="mallki-text" text="vue-element-admin"></mallki>
+            <mallki className="mallki-text" text=""></mallki>
           </div>
         </el-card>
       </el-col>

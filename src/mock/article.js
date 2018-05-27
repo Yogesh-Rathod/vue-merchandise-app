@@ -56,10 +56,10 @@ export default {
     display_time: +new Date(),
     image_uri: 'https://wpimg.wallstcn.com/e4558086-631c-425c-9430-56ffb46e70b3',
     platforms: ['a-platform'],
-    source_uri: 'https://github.com/PanJiaChen/vue-element-admin',
+    source_uri: 'https://github.com/PanJiaChen/',
     status: 'published',
     tags: [],
-    title: 'vue-element-admin'
+    title: ''
   }),
   createArticle: () => ({
     data: 'success'
